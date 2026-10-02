@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+pylsl
+pywavelets
+joblib
+mne
+# 可选：Zuo2025（左右腿主数据集）经 MOABB 接入时再装
+# moabb
